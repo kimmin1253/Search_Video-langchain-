@@ -1,4 +1,5 @@
-Search Video 보완 진행
+Search Video 보완 진행    
+url: https://www.kaggle.com/code/kimmin1253/llm-test
 
 데이터 로드 및 FAISS 인덱스 구축: 영상 세그먼트를 JSON 파일로부터 읽어와 SBERT 임베딩과 FAISS 인덱스로 유사도 검색을 수행
 
